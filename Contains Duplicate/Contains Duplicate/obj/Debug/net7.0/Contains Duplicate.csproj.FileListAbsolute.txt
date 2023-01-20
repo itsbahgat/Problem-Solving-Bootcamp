@@ -1,0 +1,15 @@
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\bin\Debug\net7.0\Contains Duplicate.exe
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\bin\Debug\net7.0\Contains Duplicate.deps.json
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\bin\Debug\net7.0\Contains Duplicate.runtimeconfig.json
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\bin\Debug\net7.0\Contains Duplicate.dll
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\bin\Debug\net7.0\Contains Duplicate.pdb
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.csproj.AssemblyReference.cache
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.AssemblyInfoInputs.cache
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.AssemblyInfo.cs
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.csproj.CoreCompileInputs.cache
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.dll
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\obj\Debug\net7.0\refint\Contains Duplicate.dll
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.pdb
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\obj\Debug\net7.0\Contains Duplicate.genruntimeconfig.cache
+C:\Users\Asmaa\OneDrive\Desktop\Problem Solving\Problem-Solving-Bootcamp\Contains Duplicate\Contains Duplicate\Contains Duplicate\obj\Debug\net7.0\ref\Contains Duplicate.dll
