@@ -1,0 +1,15 @@
+G:\leet\t1\p2\bin\Debug\net7.0\p2.exe
+G:\leet\t1\p2\bin\Debug\net7.0\p2.deps.json
+G:\leet\t1\p2\bin\Debug\net7.0\p2.runtimeconfig.json
+G:\leet\t1\p2\bin\Debug\net7.0\p2.dll
+G:\leet\t1\p2\bin\Debug\net7.0\p2.pdb
+G:\leet\t1\p2\obj\Debug\net7.0\p2.csproj.AssemblyReference.cache
+G:\leet\t1\p2\obj\Debug\net7.0\p2.GeneratedMSBuildEditorConfig.editorconfig
+G:\leet\t1\p2\obj\Debug\net7.0\p2.AssemblyInfoInputs.cache
+G:\leet\t1\p2\obj\Debug\net7.0\p2.AssemblyInfo.cs
+G:\leet\t1\p2\obj\Debug\net7.0\p2.csproj.CoreCompileInputs.cache
+G:\leet\t1\p2\obj\Debug\net7.0\p2.dll
+G:\leet\t1\p2\obj\Debug\net7.0\refint\p2.dll
+G:\leet\t1\p2\obj\Debug\net7.0\p2.pdb
+G:\leet\t1\p2\obj\Debug\net7.0\p2.genruntimeconfig.cache
+G:\leet\t1\p2\obj\Debug\net7.0\ref\p2.dll
