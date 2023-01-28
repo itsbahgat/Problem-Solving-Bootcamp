@@ -1,0 +1,15 @@
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\bin\Debug\net7.0\productArrayExceptSelf.exe
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\bin\Debug\net7.0\productArrayExceptSelf.deps.json
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\bin\Debug\net7.0\productArrayExceptSelf.runtimeconfig.json
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\bin\Debug\net7.0\productArrayExceptSelf.dll
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\bin\Debug\net7.0\productArrayExceptSelf.pdb
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\obj\Debug\net7.0\productArrayExceptSelf.csproj.AssemblyReference.cache
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\obj\Debug\net7.0\productArrayExceptSelf.GeneratedMSBuildEditorConfig.editorconfig
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\obj\Debug\net7.0\productArrayExceptSelf.AssemblyInfoInputs.cache
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\obj\Debug\net7.0\productArrayExceptSelf.AssemblyInfo.cs
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\obj\Debug\net7.0\productArrayExceptSelf.csproj.CoreCompileInputs.cache
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\obj\Debug\net7.0\productArrayExceptSelf.dll
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\obj\Debug\net7.0\refint\productArrayExceptSelf.dll
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\obj\Debug\net7.0\productArrayExceptSelf.pdb
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\obj\Debug\net7.0\productArrayExceptSelf.genruntimeconfig.cache
+G:\leet\Problem-Solving-Bootcamp\t6\productArrayExceptSelf\obj\Debug\net7.0\ref\productArrayExceptSelf.dll

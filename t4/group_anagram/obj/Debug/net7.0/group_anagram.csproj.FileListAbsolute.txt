@@ -1,0 +1,15 @@
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\bin\Debug\net7.0\group_anagram.exe
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\bin\Debug\net7.0\group_anagram.deps.json
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\bin\Debug\net7.0\group_anagram.runtimeconfig.json
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\bin\Debug\net7.0\group_anagram.dll
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\bin\Debug\net7.0\group_anagram.pdb
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\obj\Debug\net7.0\group_anagram.csproj.AssemblyReference.cache
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\obj\Debug\net7.0\group_anagram.GeneratedMSBuildEditorConfig.editorconfig
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\obj\Debug\net7.0\group_anagram.AssemblyInfoInputs.cache
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\obj\Debug\net7.0\group_anagram.AssemblyInfo.cs
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\obj\Debug\net7.0\group_anagram.csproj.CoreCompileInputs.cache
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\obj\Debug\net7.0\group_anagram.dll
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\obj\Debug\net7.0\refint\group_anagram.dll
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\obj\Debug\net7.0\group_anagram.pdb
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\obj\Debug\net7.0\group_anagram.genruntimeconfig.cache
+G:\leet\Problem-Solving-Bootcamp\t4\group_anagram\obj\Debug\net7.0\ref\group_anagram.dll

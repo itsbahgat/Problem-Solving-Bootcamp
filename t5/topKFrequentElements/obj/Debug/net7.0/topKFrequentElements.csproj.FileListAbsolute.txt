@@ -1,0 +1,15 @@
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\bin\Debug\net7.0\topKFrequentElements.exe
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\bin\Debug\net7.0\topKFrequentElements.deps.json
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\bin\Debug\net7.0\topKFrequentElements.runtimeconfig.json
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\bin\Debug\net7.0\topKFrequentElements.dll
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\bin\Debug\net7.0\topKFrequentElements.pdb
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\obj\Debug\net7.0\topKFrequentElements.csproj.AssemblyReference.cache
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\obj\Debug\net7.0\topKFrequentElements.GeneratedMSBuildEditorConfig.editorconfig
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\obj\Debug\net7.0\topKFrequentElements.AssemblyInfoInputs.cache
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\obj\Debug\net7.0\topKFrequentElements.AssemblyInfo.cs
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\obj\Debug\net7.0\topKFrequentElements.csproj.CoreCompileInputs.cache
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\obj\Debug\net7.0\topKFrequentElements.dll
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\obj\Debug\net7.0\refint\topKFrequentElements.dll
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\obj\Debug\net7.0\topKFrequentElements.pdb
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\obj\Debug\net7.0\topKFrequentElements.genruntimeconfig.cache
+G:\leet\Problem-Solving-Bootcamp\t5\topKFrequentElements\obj\Debug\net7.0\ref\topKFrequentElements.dll
