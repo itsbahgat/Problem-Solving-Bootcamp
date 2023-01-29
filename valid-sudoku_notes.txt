@@ -1,3 +1,5 @@
+<h1> These notes made by ChatGPT (by passing code to chatgpt) </h1>
+
 -This is a C# implementation of a solution to determine if a 9 x 9 Sudoku board is valid.
 
 -The method IsValidSudoku takes a 2D array of characters board as input.
