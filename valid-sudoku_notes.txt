@@ -1,3 +1,55 @@
+code : 
+  public bool IsValidSudoku(char[][] board)
+{
+    // Check rows
+    for (int i = 0; i < 9; i++)
+    {
+        HashSet<char> row = new HashSet<char>();
+        for (int j = 0; j < 9; j++)
+        {
+            if (board[i][j] != '.' && !row.Add(board[i][j]))
+            {
+                return false;
+            }
+        }
+    }
+
+    // Check columns
+    for (int j = 0; j < 9; j++)
+    {
+        HashSet<char> column = new HashSet<char>();
+        for (int i = 0; i < 9; i++)
+        {
+            if (board[i][j] != '.' && !column.Add(board[i][j]))
+            {
+                return false;
+            }
+        }
+    }
+
+    // Check 3 x 3 sub-boxes
+    for (int i = 0; i < 9; i += 3)
+    {
+        for (int j = 0; j < 9; j += 3)
+        {
+            HashSet<char> subBox = new HashSet<char>();
+            for (int x = i; x < i + 3; x++)
+            {
+                for (int y = j; y < j + 3; y++)
+                {
+                    if (board[x][y] != '.' && !subBox.Add(board[x][y]))
+                    {
+                        return false;
+                    }
+                }
+            }
+        }
+    }
+
+    return true;
+}
+
+notes :
 ##These notes made by chatGPT (by passing code to chatpgt)##
 
 -This is a C# implementation of a solution to determine if a 9 x 9 Sudoku board is valid.
