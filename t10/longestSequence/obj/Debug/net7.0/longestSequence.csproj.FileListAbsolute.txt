@@ -1,0 +1,15 @@
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\bin\Debug\net7.0\longestSequence.exe
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\bin\Debug\net7.0\longestSequence.deps.json
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\bin\Debug\net7.0\longestSequence.runtimeconfig.json
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\bin\Debug\net7.0\longestSequence.dll
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\bin\Debug\net7.0\longestSequence.pdb
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\obj\Debug\net7.0\longestSequence.csproj.AssemblyReference.cache
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\obj\Debug\net7.0\longestSequence.GeneratedMSBuildEditorConfig.editorconfig
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\obj\Debug\net7.0\longestSequence.AssemblyInfoInputs.cache
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\obj\Debug\net7.0\longestSequence.AssemblyInfo.cs
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\obj\Debug\net7.0\longestSequence.csproj.CoreCompileInputs.cache
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\obj\Debug\net7.0\longestSequence.dll
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\obj\Debug\net7.0\refint\longestSequence.dll
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\obj\Debug\net7.0\longestSequence.pdb
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\obj\Debug\net7.0\longestSequence.genruntimeconfig.cache
+G:\leet\Problem-Solving-Bootcamp\t10\longestSequence\obj\Debug\net7.0\ref\longestSequence.dll

@@ -1,0 +1,15 @@
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\obj\Debug\net7.0\Valid Parentheses.csproj.AssemblyReference.cache
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\obj\Debug\net7.0\Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\obj\Debug\net7.0\Valid Parentheses.AssemblyInfoInputs.cache
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\obj\Debug\net7.0\Valid Parentheses.AssemblyInfo.cs
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\obj\Debug\net7.0\Valid Parentheses.csproj.CoreCompileInputs.cache
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\bin\Debug\net7.0\Valid Parentheses.exe
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\bin\Debug\net7.0\Valid Parentheses.deps.json
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\bin\Debug\net7.0\Valid Parentheses.runtimeconfig.json
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\bin\Debug\net7.0\Valid Parentheses.dll
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\bin\Debug\net7.0\Valid Parentheses.pdb
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\obj\Debug\net7.0\Valid Parentheses.dll
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\obj\Debug\net7.0\refint\Valid Parentheses.dll
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\obj\Debug\net7.0\Valid Parentheses.pdb
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\obj\Debug\net7.0\Valid Parentheses.genruntimeconfig.cache
+G:\leet\Problem-Solving-Bootcamp\Valid Parentheses\obj\Debug\net7.0\ref\Valid Parentheses.dll
