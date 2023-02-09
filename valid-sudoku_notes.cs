@@ -48,7 +48,7 @@ code :
 
     return true;
 }
-
+/*
 notes :
 ##These notes made by chatGPT (by passing code to chatpgt)##
 
@@ -81,3 +81,4 @@ notes :
 -If the current cell is not an empty cell and the cell's value is not added to the subBox HashSet<char>, the function returns false.
 
 -If all loops have completed without returning false, the function returns true, indicating that the board is valid.
+*/
