@@ -1,0 +1,15 @@
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\bin\Debug\net7.0\encodeAndDecodeStrings.exe
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\bin\Debug\net7.0\encodeAndDecodeStrings.deps.json
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\bin\Debug\net7.0\encodeAndDecodeStrings.runtimeconfig.json
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\bin\Debug\net7.0\encodeAndDecodeStrings.dll
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\bin\Debug\net7.0\encodeAndDecodeStrings.pdb
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\obj\Debug\net7.0\encodeAndDecodeStrings.csproj.AssemblyReference.cache
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\obj\Debug\net7.0\encodeAndDecodeStrings.GeneratedMSBuildEditorConfig.editorconfig
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\obj\Debug\net7.0\encodeAndDecodeStrings.AssemblyInfoInputs.cache
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\obj\Debug\net7.0\encodeAndDecodeStrings.AssemblyInfo.cs
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\obj\Debug\net7.0\encodeAndDecodeStrings.csproj.CoreCompileInputs.cache
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\obj\Debug\net7.0\encodeAndDecodeStrings.dll
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\obj\Debug\net7.0\refint\encodeAndDecodeStrings.dll
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\obj\Debug\net7.0\encodeAndDecodeStrings.pdb
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\obj\Debug\net7.0\encodeAndDecodeStrings.genruntimeconfig.cache
+G:\leet\Problem-Solving-Bootcamp\t9\encodeAndDecodeStrings\obj\Debug\net7.0\ref\encodeAndDecodeStrings.dll

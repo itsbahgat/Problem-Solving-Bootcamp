@@ -1,0 +1,15 @@
+G:\leet\Problem-Solving-Bootcamp\Min Stack\bin\Debug\net7.0\Min Stack.exe
+G:\leet\Problem-Solving-Bootcamp\Min Stack\bin\Debug\net7.0\Min Stack.deps.json
+G:\leet\Problem-Solving-Bootcamp\Min Stack\bin\Debug\net7.0\Min Stack.runtimeconfig.json
+G:\leet\Problem-Solving-Bootcamp\Min Stack\bin\Debug\net7.0\Min Stack.dll
+G:\leet\Problem-Solving-Bootcamp\Min Stack\bin\Debug\net7.0\Min Stack.pdb
+G:\leet\Problem-Solving-Bootcamp\Min Stack\obj\Debug\net7.0\Min Stack.csproj.AssemblyReference.cache
+G:\leet\Problem-Solving-Bootcamp\Min Stack\obj\Debug\net7.0\Min Stack.GeneratedMSBuildEditorConfig.editorconfig
+G:\leet\Problem-Solving-Bootcamp\Min Stack\obj\Debug\net7.0\Min Stack.AssemblyInfoInputs.cache
+G:\leet\Problem-Solving-Bootcamp\Min Stack\obj\Debug\net7.0\Min Stack.AssemblyInfo.cs
+G:\leet\Problem-Solving-Bootcamp\Min Stack\obj\Debug\net7.0\Min Stack.csproj.CoreCompileInputs.cache
+G:\leet\Problem-Solving-Bootcamp\Min Stack\obj\Debug\net7.0\Min Stack.dll
+G:\leet\Problem-Solving-Bootcamp\Min Stack\obj\Debug\net7.0\refint\Min Stack.dll
+G:\leet\Problem-Solving-Bootcamp\Min Stack\obj\Debug\net7.0\Min Stack.pdb
+G:\leet\Problem-Solving-Bootcamp\Min Stack\obj\Debug\net7.0\Min Stack.genruntimeconfig.cache
+G:\leet\Problem-Solving-Bootcamp\Min Stack\obj\Debug\net7.0\ref\Min Stack.dll

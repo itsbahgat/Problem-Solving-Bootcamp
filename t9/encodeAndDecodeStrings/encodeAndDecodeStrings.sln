@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encodeAndDecodeStrings", "encodeAndDecodeStrings.csproj", "{C3615BE4-7139-4E9A-BE4A-EBCDD815B9CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3615BE4-7139-4E9A-BE4A-EBCDD815B9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3615BE4-7139-4E9A-BE4A-EBCDD815B9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3615BE4-7139-4E9A-BE4A-EBCDD815B9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3615BE4-7139-4E9A-BE4A-EBCDD815B9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D82FE8B-CC7F-48A9-A169-93FB0B88F621}
+	EndGlobalSection
+EndGlobal
