@@ -1,0 +1,50 @@
+ public class MinStack
+    {
+        private Stack<int> stack;
+        private Stack<int> minStack;
+        int minn = 0;
+        public MinStack()
+        {
+            //create 2 stacks (minStack is main stack to store all elements, stack to store the most minimum elements
+            stack = new Stack<int>();
+            minStack = new Stack<int>();
+        }
+
+        public void Push(int val)
+        {
+            //if stack(that store most minimum elements) - empty, push the value 
+            if (stack.Count == 0) stack.Push(val);
+            //but if stack(that store most minimum elements) - has elements, check if the val is smaller than the smallest value in stack 
+            else if (val <= stack.Peek()) { stack.Push(val); }
+            //push all elements in main stack(mainStack)
+            minStack.Push(val);
+        }
+
+        public void Pop()
+        {
+            //check if the remoced-element is the smallest element
+            if (minStack.Peek() == stack.Peek()) {
+                stack.Pop();
+            }
+            //else remove element from main stack only
+            minStack.Pop();
+        }
+
+        public int Top()
+        {
+            //return the smallest element,from stack contains the most minimum elements
+            return minStack.Peek();
+        }
+
+        public int GetMin()
+        {
+            //check if stack(that contain the smallest elements) contains elements, so return them
+            if (stack.Count > 0)
+            {
+                return stack.Peek();
+            }
+            //else return the top of main stack, because it will be the smallest
+            return minStack.Peek();
+            
+        }
+    }
