@@ -1,0 +1,15 @@
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\bin\Debug\net7.0\Evaluate Reverse Polish Notation.exe
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\bin\Debug\net7.0\Evaluate Reverse Polish Notation.deps.json
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\bin\Debug\net7.0\Evaluate Reverse Polish Notation.runtimeconfig.json
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\bin\Debug\net7.0\Evaluate Reverse Polish Notation.dll
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\bin\Debug\net7.0\Evaluate Reverse Polish Notation.pdb
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\obj\Debug\net7.0\Evaluate Reverse Polish Notation.csproj.AssemblyReference.cache
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\obj\Debug\net7.0\Evaluate Reverse Polish Notation.GeneratedMSBuildEditorConfig.editorconfig
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\obj\Debug\net7.0\Evaluate Reverse Polish Notation.AssemblyInfoInputs.cache
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\obj\Debug\net7.0\Evaluate Reverse Polish Notation.AssemblyInfo.cs
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\obj\Debug\net7.0\Evaluate Reverse Polish Notation.csproj.CoreCompileInputs.cache
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\obj\Debug\net7.0\Evaluate Reverse Polish Notation.dll
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\obj\Debug\net7.0\refint\Evaluate Reverse Polish Notation.dll
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\obj\Debug\net7.0\Evaluate Reverse Polish Notation.pdb
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\obj\Debug\net7.0\Evaluate Reverse Polish Notation.genruntimeconfig.cache
+G:\leet\Problem-Solving-Bootcamp\Evaluate Reverse Polish Notation\obj\Debug\net7.0\ref\Evaluate Reverse Polish Notation.dll

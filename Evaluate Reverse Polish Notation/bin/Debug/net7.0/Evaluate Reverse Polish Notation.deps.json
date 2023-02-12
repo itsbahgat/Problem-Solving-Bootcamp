@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Evaluate Reverse Polish Notation/1.0.0": {
+        "runtime": {
+          "Evaluate Reverse Polish Notation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evaluate Reverse Polish Notation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
