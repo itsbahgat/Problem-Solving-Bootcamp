@@ -1,0 +1,15 @@
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\bin\Debug\net7.0\Generate Parentheses.exe
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\bin\Debug\net7.0\Generate Parentheses.deps.json
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\bin\Debug\net7.0\Generate Parentheses.runtimeconfig.json
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\bin\Debug\net7.0\Generate Parentheses.dll
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\bin\Debug\net7.0\Generate Parentheses.pdb
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\obj\Debug\net7.0\Generate Parentheses.csproj.AssemblyReference.cache
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\obj\Debug\net7.0\Generate Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\obj\Debug\net7.0\Generate Parentheses.AssemblyInfoInputs.cache
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\obj\Debug\net7.0\Generate Parentheses.AssemblyInfo.cs
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\obj\Debug\net7.0\Generate Parentheses.csproj.CoreCompileInputs.cache
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\obj\Debug\net7.0\Generate Parentheses.dll
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\obj\Debug\net7.0\refint\Generate Parentheses.dll
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\obj\Debug\net7.0\Generate Parentheses.pdb
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\obj\Debug\net7.0\Generate Parentheses.genruntimeconfig.cache
+G:\leet\Problem-Solving-Bootcamp\Generate Parentheses\obj\Debug\net7.0\ref\Generate Parentheses.dll
