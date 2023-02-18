@@ -1,6 +1,6 @@
 # Hello, it's Saeed's branch
 
-## until now i uploaded code for 5 problems
+## until now i uploaded code for 7 problems
 ##  🌕Array :
 ###   -soduko
 ###   -longestConsequtiveSequence
@@ -8,3 +8,5 @@
 ###   -Valid Parentheses
 ###   -Min Stack
 ###   -Evaluate Reverse Polish Notation
+###   -Generate Parentheses
+###   -Daily Temperatures
