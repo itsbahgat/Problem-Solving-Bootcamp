@@ -1,0 +1,15 @@
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\bin\Debug\net7.0\Daily Temperatures.exe
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\bin\Debug\net7.0\Daily Temperatures.deps.json
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\bin\Debug\net7.0\Daily Temperatures.runtimeconfig.json
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\bin\Debug\net7.0\Daily Temperatures.dll
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\bin\Debug\net7.0\Daily Temperatures.pdb
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\obj\Debug\net7.0\Daily Temperatures.csproj.AssemblyReference.cache
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\obj\Debug\net7.0\Daily Temperatures.GeneratedMSBuildEditorConfig.editorconfig
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\obj\Debug\net7.0\Daily Temperatures.AssemblyInfoInputs.cache
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\obj\Debug\net7.0\Daily Temperatures.AssemblyInfo.cs
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\obj\Debug\net7.0\Daily Temperatures.csproj.CoreCompileInputs.cache
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\obj\Debug\net7.0\Daily Temperatures.dll
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\obj\Debug\net7.0\refint\Daily Temperatures.dll
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\obj\Debug\net7.0\Daily Temperatures.pdb
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\obj\Debug\net7.0\Daily Temperatures.genruntimeconfig.cache
+G:\leet\Problem-Solving-Bootcamp\Daily Temperatures\obj\Debug\net7.0\ref\Daily Temperatures.dll
