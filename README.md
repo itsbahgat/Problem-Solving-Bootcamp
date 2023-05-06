@@ -21,7 +21,7 @@ In this repository, each member has their own branch where they can push their s
 |Topics   | % |
 |--|--|
 | Arrays & hashing | ![Progress](https://progress-bar.dev/100/) |
-| Stack | ![Progress](https://progress-bar.dev/30/?scale=100) |
+| Stack | ![Progress](https://progress-bar.dev/100/?scale=100) |
 | Two Pointers | ![Progress](https://progress-bar.dev/0/?scale=5) |
 
 ---
